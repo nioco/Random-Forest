@@ -1,2 +1,2 @@
 # Random-Forest
-Exercise in using the RandomForestRegressor function
+In this exercise I used the RandomForestRegressor function to create a model to estimate house prices in Iowa
